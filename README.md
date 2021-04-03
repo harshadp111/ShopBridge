@@ -17,7 +17,6 @@ This project is built in **React JS and ASP.NET Core(.NET Core Framework 3.1)**
 - [Run Tests](#-run-tests)
 - [Build](#-build)
 - [Time Tracking](#-time-tracking)
-- [License](#-license)
 
 ## ⚙ System Requirements
 
