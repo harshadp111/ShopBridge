@@ -82,9 +82,3 @@ public static string connectionString = @"Data Source=LAPTOP-O5G13I0U\SQLEXPRESS
 * Backend-Frontend Integration - 4 hours
 * Unit Test Coverage - 5 hours
 
----
-## 📑 License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/kunalfrk/ShopBridge/blob/master/LICENSE)
-
-[Shop Bridge](#shop-bridge) is under the **MIT license**. See the [LICENSE](https://github.com/kunalfrk/ShopBridge/blob/master/LICENSE) for more information.
