@@ -4,7 +4,7 @@
 
 This project is built in **React JS and ASP.NET Core(.NET Core Framework 3.1)**
 
-[![HitCount](http://hits.dwyl.com/kunalfrk/ShopBridge.svg)](http://hits.dwyl.com/kunalfrk/ShopBridge)
+[![HitCount](http://hits.dwyl.com/roshnidahake13/ShopBridge.svg)](http://hits.dwyl.com/roshnidahake13/ShopBridge)
 
 [![Shop Bridge Image](https://github.com/kunalfrk/ShopBridge/blob/master/ShopBridge.Web/Content/ShopBridge.jpg)]()
 
