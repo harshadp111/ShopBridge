@@ -83,6 +83,6 @@ public static string connectionString = @"Data Source=LAPTOP-O5G13I0U\SQLEXPRESS
 * Unit Test Coverage - 5 hours
 
 ## ❌ Errors Faced
-* CORS policy error while fetching data for inventory from API due to cross-origin requests.
-* Error solved by adding relevant code in ConfigureServices() and Configure() methods for allowing cross-origin requests. 
+* CORS policy error while fetching data by API calls due to cross-origin requests.
+* Error solved by adding relevant code in ConfigureServices() and Configure() methods in Startup class of ShopBridge_WEBAPI project for allowing cross-origin requests. 
 
