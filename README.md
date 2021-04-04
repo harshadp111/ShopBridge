@@ -17,6 +17,7 @@ This project is built in **React JS and ASP.NET Core(.NET Core Framework 3.1)**
 - [Run Tests](#-run-tests)
 - [Build](#-build)
 - [Time Tracking](#-time-tracking)
+- [Errors Faced](#-errors-faced)
 
 ## ⚙ System Requirements
 
@@ -80,4 +81,8 @@ public static string connectionString = @"Data Source=LAPTOP-O5G13I0U\SQLEXPRESS
 * Frontend Presentation - 1 hour
 * Backend-Frontend Integration - 4 hours
 * Unit Test Coverage - 5 hours
+
+## ❌ Errors Faced
+* CORS policy error while fetching data for inventory from API due to cross-origin requests.
+* Error solved by adding relevant code in ConfigureServices() and Configure() methods for allowing cross-origin requests. 
 
